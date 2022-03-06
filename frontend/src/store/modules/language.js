@@ -22,6 +22,10 @@ const state = {
       value: "de-DE",
     },
     {
+      name: "Ελληνικά (Greek)",
+      value: "el-GR",
+    },
+    {
       name: "Español (Spanish)",
       value: "es-ES",
     },
